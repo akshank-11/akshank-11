@@ -6,11 +6,11 @@ Data Analytics | Cybersecurity Enthusiast
 
 I am a recent graduate from the MS in Information Systems program at Indiana University's Kelley School of Business. With around 2 years of experience in Software Development, I have a strong foundation in building and enhancing software solutions while collaborating with cross-functional teams to deliver impactful results. During my graduate studies, I developed expertise in areas such as data analytics, product management, and IT governance, complementing my technical background with business acumen.
 
-* 🌍  I'm based in Chicago, Illinois
+* 🌍  I'm based in Chicago, Illinois (excited to see more places in the US)
 * ✉️  You can contact me at [akshank.work@gmail.com](mailto:akshank.work@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm learning Machine Learning (building end-to-end pipelines)
 * 🤝  I'm open to collaborating on interesting projects :)
-* ⚡  I am actively exploring gull-time opportunities in Data/Business Analyst, Technology/Cybersecurity Consulting, and SAP Analyst roles!
+* ⚡  I am actively exploring full-time opportunities in Data/Business Analyst, Technology/Cybersecurity Consulting, and SAP Analyst roles!
 
 ### Skills
 
