@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshitha Shankar
+Hi there! My name is Akshitha Shankar
 ========================================================================================================================================
 
-Data Analytics | Cybersecurity Enthusiast
+Data Analytics | Cybersecurity Enthusiast | Love to learn!
 -----------------------------------------
 
 I am a recent graduate from the MS in Information Systems program at Indiana University's Kelley School of Business. With around 2 years of experience in Software Development, I have a strong foundation in building and enhancing software solutions while collaborating with cross-functional teams to deliver impactful results. During my graduate studies, I developed expertise in areas such as data analytics, product management, and IT governance, complementing my technical background with business acumen.
