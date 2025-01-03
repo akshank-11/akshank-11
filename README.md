@@ -12,7 +12,7 @@ I am a recent graduate from the MS in Information Systems program at Indiana Uni
 * 🤝  I'm open to collaborating on interesting projects :)
 * ⚡  I am actively exploring full-time opportunities in Data/Business Analyst, Technology/Cybersecurity Consulting, and SAP Analyst roles!
 
-<a href="https://akshank-11.github.io/AkshithaShankar.github.io/">My portfolio</a>
+<a href="https://akshank-11.github.io/AkshithaShankar.github.io/" target="_blank" >My Portfolio</a>
 
 ### Skills
 
