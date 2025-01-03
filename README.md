@@ -4,13 +4,15 @@ Hi there! My name is Akshitha Shankar
 Data Analytics | Cybersecurity Enthusiast | Love to learn!
 -----------------------------------------
 
-I am a recent graduate from the MS in Information Systems program at Indiana University's Kelley School of Business. With around 2 years of experience in Software Development, I have a strong foundation in building and enhancing software solutions while collaborating with cross-functional teams to deliver impactful results. During my graduate studies, I developed expertise in areas such as data analytics, product management, and IT governance, complementing my technical background with business acumen.
+I am a recent graduate from the MS in Information Systems program at Indiana University's Kelley School of Business. With around 2 years of experience in Software Development, I have a strong foundation in building and enhancing software solutions while collaborating with cross-functional teams to deliver impactful results. During my graduate studies, I developed expertise in areas such as data analytics, security, and enterprise platforms complementing my technical background with business acumen.
 
-* 🌍  I'm based in Chicago, Illinois (excited to see more places in the US)
+* 🌍  I'm currently in Bloomington, Indiana, and enthusiastic about relocating to explore opportunities across the U.S
 * ✉️  You can contact me at [akshank.work@gmail.com](mailto:akshank.work@gmail.com)
 * 🧠  I'm learning Machine Learning (building end-to-end pipelines)
 * 🤝  I'm open to collaborating on interesting projects :)
 * ⚡  I am actively exploring full-time opportunities in Data/Business Analyst, Technology/Cybersecurity Consulting, and SAP Analyst roles!
+
+<a href="https://akshank-11.github.io/AkshithaShankar.github.io/">My portfolio</a>
 
 ### Skills
 
