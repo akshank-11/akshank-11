@@ -8,7 +8,7 @@ I am a recent graduate from the MS in Information Systems program at Indiana Uni
 
 * 🌍  I'm currently in Bloomington, Indiana, and enthusiastic about relocating to explore opportunities across the U.S
 * ✉️  You can contact me at [akshank.work@gmail.com](mailto:akshank.work@gmail.com)
-* 🧠  I'm learning Machine Learning (building end-to-end pipelines)
+* 🧠  I'm learning AWS/ Azure
 * 🤝  I'm open to collaborating on interesting projects :)
 * ⚡  I am actively exploring full-time opportunities in Data/Business Analyst, Technology/Cybersecurity Consulting, and SAP Analyst roles!
 
